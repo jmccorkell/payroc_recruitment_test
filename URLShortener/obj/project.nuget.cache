@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rlrzFd2b6NlNMM1bqSO5rT9utn0YiqQMuGhV7DBN11E0/j90kPdHXevja8vsWLk6EPz2iyBnUgTSzHBWJyMfJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\curri\\url-shortener-tutorial\\UrlShortener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\curri\\.nuget\\packages\\litedb\\5.0.12\\litedb.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
